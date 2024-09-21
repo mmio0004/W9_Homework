@@ -81,7 +81,8 @@
           {
             "field": "Prevalence of hypertension among adults aged 30-79 years, age-standardized - Sex: male",
             "type": "quantitative",
-            "title": "Hypertension Prevalence Rate (%)"
+            "title": "Hypertension Prevalence Rate (%)",
+            "format": ".2f"
           }
         ]
       }
